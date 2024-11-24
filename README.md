@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Vindya Lenwala 👋
 
-<!--
-**VindyaLenawala/VindyaLenawala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an enthusiastic final-year Computer Engineering undergraduate at the University of Jaffna, seeking an internship opportunity to apply and expand my skills in Artificial Intelligence, Machine Learning, and Software Development. I am passionate about exploring **Generative AI**, **Natural Language Processing (NLP)**, **Computer Vision**, and **Deep Learning**. I aim to contribute to cutting-edge projects while gaining valuable industry experience in dynamic, collaborative environments.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+**Languages**: Python, Java, C++  
+**Frameworks & Libraries**: TensorFlow, PyTorch, Numpy, Pandas, Matplotlib, Langchain, React, Node.js  
+**AI & ML**: Deep Learning, Computer Vision, NLP, Model Optimization  
+**Databases**: SQL, MongoDB  
+**Tools**: Git, GitHub, Jira, Figma  
+**Concepts**: Data Structures, Algorithms, Linear Algebra  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Education
+- **BSc. Eng (Hons) in Computer Engineering**, University of Jaffna, Sri Lanka  
+  Apr 2021 - Present
+
+## 📬 Contact Me
+- [LinkedIn](https://www.linkedin.com/in/vindya-lenawala)
+- [Email](mailto:vindyalenawala@gmail.com)
+
+**Feel free to explore my repositories and connect with me on LinkedIn!**  
