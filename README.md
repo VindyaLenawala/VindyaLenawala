@@ -15,7 +15,7 @@ I'm an enthusiastic final-year Computer Engineering undergraduate at the Univers
   Apr 2021 - Present
 
 ## 📬 Contact Me
-- [LinkedIn](https://www.linkedin.com/in/vindya-lenawala)
+- [LinkedIn](https://www.linkedin.com/in/vindya-lenawala-1b433819b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bq%2FVoVoZ9RP%2BXF0pn206SCw%3D%3D)
 - [Email](mailto:vindyalenawala@gmail.com)
 
 **Feel free to explore my repositories and connect with me on LinkedIn!**  
